@@ -59,14 +59,14 @@ Scans were performed between **26–27 Sept 2025**.
 ## 📑 Report
 The full detailed report, including evidence and screenshots, is available in:
 
-- [`Cyber_Security_Trainee_Assignment_Final.docx`](./Cyber_Security_Trainee_Assignment_Final.docx)
+- [`Cyber_Security_Trainee_Assignment_Final.docx`](./Cyber_Security_Trainee_Assignment_Final.pdf)
 
 ---
 
 ## 🎥 Video Demonstration
 A video walkthrough of the problem statement response is available here:
 
-👉 [Google Drive Link]([(https://drive.google.com/file/d/1UbmIIn8A81UlSS6qfHktzNNkYwg7ve3a/view?usp=sharing))  
+👉 [Google Drive Link](https://drive.google.com/file/d/1UbmIIn8A81UlSS6qfHktzNNkYwg7ve3a/view?usp=sharing)  
 
 
 ---
