@@ -1,0 +1,73 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = web.mmebvba.com
+   i:CN = web.mmebvba.com
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 09:07:54 2015 GMT; NotAfter: May 22 09:07:54 2025 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIICxDCCAaygAwIBAgIJALpeeeDC90PLMA0GCSqGSIb3DQEBCwUAMBoxGDAWBgNV
+BAMMD3dlYi5tbWVidmJhLmNvbTAeFw0xNTA1MjUwOTA3NTRaFw0yNTA1MjIwOTA3
+NTRaMBoxGDAWBgNVBAMMD3dlYi5tbWVidmJhLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAK/hFlEmVRyv2fbXel6oUukbiGdpX0Xps5sqis2OxF9Y
+/YXJcxaPoI/fUyfSdJ6prr2/YoEcUUfZaUIJWbsSz/qzklja0M+GMAVzL+wqAi+V
+HjgujqsgeEQgxgTiNoQu9Zld5NY7Ac9qQRKbLBLRubQV/9+Dud0Isx3z1gAsJda6
+bi3JuL0a27EMztRssKeQClJhWLAdidjuXH6kc+3jbNPmvedRF+Mw5mk32nNtyZ78
+qjIFT7Bny/CNGN31PFgQWq+6pTgCzokui04zV0pYyaGX9hs6roLiQWLT9UqB0wx0
+Jr+GM175u2YLvXba+UZ2cWMOp5IZ359OHtkf0uuKSzUCAwEAAaMNMAswCQYDVR0T
+BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAgKAHg1qFsUlDarYKIrjuUxfeI2bE1fLd
+VGIYBzmaQddzehzBu9Akn9g73DHwrs9+gW9cDfkClVr3ayzS5KAMhvnZzga1B0+q
+NYfX2y61SMnS4w9p8PT3iqZdF/RYwu658BXjpJWojwoA8Hu1mhwT0DdSSEofBnIq
+azNm62lQsxdTlU7wEanZ0/ExUFNktwKean7Jle3EvH94fkNg2T0er1WuEB/QF6sv
+dJqxsYSZ3toPEuqlOryWis0E8pfo3Hauzz6fBGijLcEnMoFp7oCZNz0Xh9Q93aOs
+5c9hNmHtQcu3vMrYUYArpj+a/euAEI2HaGJZf5g75mf4gAI/2B7iyg==
+-----END CERTIFICATE-----
+subject=CN = web.mmebvba.com
+issuer=CN = web.mmebvba.com
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 1414 bytes and written 450 bytes
+Verification error: certificate has expired
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DD63F2D40B9BBFC41254F5ACCAA479BCD731D3221D502FA578DA1CC08E877CB0
+    Session-ID-ctx: 
+    Master-Key: 38D64187658A24C94222595D5637850205497B17709339A96B5BF39FA901FD78550291B1900AFDE5B69FEDE827B7C6ED
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 81 f6 a8 de 88 00 32 b1-a3 d0 0c 78 ec 1b 35 4d   ......2....x..5M
+    0010 - 39 9a 6e 1f ce b2 cc b2-c7 54 26 4d be 6a 69 28   9.n......T&M.ji(
+    0020 - 15 e0 12 e5 62 c5 01 60-cb a9 f6 1d 0f e1 f7 cf   ....b..`........
+    0030 - ee a6 de bc 18 0c 2f b0-40 f8 02 31 81 85 1c 33   ....../.@..1...3
+    0040 - de 63 7d f1 fd 91 e9 8a-08 50 3d ac 03 15 82 c8   .c}......P=.....
+    0050 - fd fe b9 91 83 d1 c3 a9-ad 8d 20 53 3a 08 92 bf   .......... S:...
+    0060 - 38 66 c6 9f 0d c1 20 80-3b 81 f1 4a 4f ee 46 76   8f.... .;..JO.Fv
+    0070 - d8 7c 7a ae 8b 5b 71 d7-37 27 f1 5f d5 3a 96 ac   .|z..[q.7'._.:..
+    0080 - 6e ee 01 d1 72 ac f3 45-59 68 0e 68 50 51 0d 3d   n...r..EYh.hPQ.=
+    0090 - 94 a5 b6 46 e8 3c e8 f3-71 ae 41 b3 cb ab bd ef   ...F.<..q.A.....
+    00a0 - 1f 2f f3 b6 9f 30 e8 87-e0 f9 67 34 a6 40 61 22   ./...0....g4.@a"
+    00b0 - 35 a0 c2 79 1e 77 15 0a-a9 71 7c 92 d8 c1 bd 95   5..y.w...q|.....
+    00c0 - 48 6a 8f d6 85 0f 1d 1b-fc 02 92 a0 56 99 f2 78   Hj..........V..x
+
+    Start Time: 1758905217
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
+    Extended master secret: no
+---
